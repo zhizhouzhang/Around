@@ -21,7 +21,7 @@ const (
 	POST_TYPE  = "post"
 	DISTANCE   = "200km"
 	// elastic search url
-	ES_URL = "http://35.229.84.227:9200"
+	ES_URL = "http://35.185.12.192:9200"
 	// google cloud storage bucket name
 	BUCKET_NAME = "zzz-post-image"
 )
